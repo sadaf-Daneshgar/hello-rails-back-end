@@ -137,7 +137,7 @@ Upcoming improvements:
 
 ## 🔭 Issues <a name="issues"></a>
 
-Find a bug or have a feature request? [Open a new issue](https://github.com/hafiz1379/hello-rails-back-end/issues) here on GitHub.
+Find a bug or have a feature request? [Open a new issue](https://github.com/sadaf-Daneshgar/hello-rails-back-end/issues) here on GitHub.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
